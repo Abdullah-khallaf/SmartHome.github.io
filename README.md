@@ -1,5 +1,11 @@
 # smart-home
 
+## About the project
+
+It's an IOT project we build a smart system to control leds fans and heaters in the house.
+i was responsible for the front-end of the site.
+i build the ui with **VUE js framework**
+
 ## Project setup
 ```
 yarn install
