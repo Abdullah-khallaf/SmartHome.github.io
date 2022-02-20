@@ -27,7 +27,7 @@ export default {
       height: 60px;
       position: absolute;
       left: 135px;
-      display: none;
+      
     }
     
   }
